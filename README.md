@@ -1,6 +1,6 @@
-# Lovoo Interview Coding Task - Simple Online Shop
+# Interview Coding Task - Simple Online Shop
 
-This repository contains the coding task for the Lovoo interview. The objective of this project is to build a **simple online shop** that displays a list of items with their product title, description, and thumbnail picture. Users should be able to add any number of items to a shopping cart. Please note that there is no requirement for a "checkout" functionality, and the shopping cart should only persist for the duration of the session.
+This repository contains the coding task for the interview. The objective of this project is to build a **simple online shop** that displays a list of items with their product title, description, and thumbnail picture. Users should be able to add any number of items to a shopping cart. Please note that there is no requirement for a "checkout" functionality, and the shopping cart should only persist for the duration of the session.
 
 The shop items will be provided by a REST API that delivers the product information to the client. You can use `dummyjson.com/product` as a source for some sample products. The design should be minimal and neat, and there is no need for an elaborate design. The primary goal is to create a functional online shop with a focus on simplicity.
 
